@@ -1,1 +1,1 @@
-# DS300_FoodSim: A Multi-Metric Hybrid Approach for Advanced Food Recommendation
+# A New Dataset and Empirical Evaluation for Vietnamese Food Recommendation System
