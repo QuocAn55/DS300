@@ -29,7 +29,7 @@ namely Jaccard, BM25, TfIdf Recommender, and a composite measure
 <img width="600" alt="resultA" src="https://github.com/QuocAn55/DS300/assets/72774923/332d62d4-800e-4975-939a-28be2ae1e414">
 
 ### Collaborative-based Filtering
-<img width="600" alt="resultB" src="https://github.com/QuocAn55/DS300/assets/72774923/c708d1da-a28b-4c7b-88d8-a705ef220594">
+<img width="600" alt="resultB" src="https://github.com/QuocAn55/DS300/assets/72774923/bb0d53b0-cd8a-45df-9864-f1636f7164f3">
 
 ## Application Diagram
 <img width="1000" alt="process" src="https://github.com/QuocAn55/DS300/assets/72774923/0c6fc62f-5083-41be-9838-2fe4394b29c3">
