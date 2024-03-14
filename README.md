@@ -35,7 +35,7 @@ namely Jaccard, BM25, TfIdf Recommender, and a composite measure
 <img width="1000" alt="process" src="https://github.com/QuocAn55/DS300/assets/72774923/0c6fc62f-5083-41be-9838-2fe4394b29c3">
 
 ## Contact
-[Chi Thanh Dang](https://github.com/motcapbovit), [Thuy Hong Thi Dang](https://github.com/KaytlynDangDS) and Quoc An Tran Huynh
+[Chi Thanh Dang](https://github.com/motcapbovit), [Thuy Hong Thi Dang](https://github.com/KaytlynDangDS) and [Quoc An Tran Huynh](https://github.com/QuocAn55)
 
 Faculty of Information Science and Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam.
 
